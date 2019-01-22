@@ -1,0 +1,5 @@
+000 *
+000 /usr/foo/*
+110 /usr/foo/bar
+101 /usr/foo/bar/foo.txt
+777 ./src/fend.c

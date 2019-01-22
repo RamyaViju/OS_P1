@@ -1,0 +1,13 @@
+#####################################################
+#	Following is a list of references 	    #
+#	and/or citations for some parts of the code #
+#####################################################
+
+[1]	https://github.com/t00sh/p-sandbox/blob/master/src/sandbox.c
+[2]	https://stackoverflow.com/questions/9120842/pass-a-relative-path-to-fopen
+[3]	https://nullprogram.com/blog/2018/06/23/
+[4]	https://www.linuxquestions.org/questions/programming-9/read-parameters-from-config-file-file-parser-362188/
+[5]	https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_73/rtref/ctime.htm
+[6]	https://filippo.io/linux-syscall-table/
+[7]	http://makefiletutorial.com/
+[8]	https://github.com/falakvr/Fend
